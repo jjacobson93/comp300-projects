@@ -1,0 +1,23 @@
+Jeremy Jacobson, jjacobson@sandiego.edu
+
+Project Overview
+=======================
+The purpose of this project was to learn how to make a multi-output circuit that would be use to light up a 7-segment display. The 7-segment display shows a hex number.
+
+Design Methodology
+=======================
+I used 4 input wires and connected each one to an inverter. Each gate used to calculate the 7 outputs are connected to their corresponding input wire.
+
+Output Equations
+=======================
+Sa = D0'D2' + D1'D2'D3 + D3'D0D2' + D3'D1
+Sb = D0'D1'D3' + D0'D2' + D0D1'D3 + D2'D3' + D0D1D3'
+Sc = D1'D2' + D0D1' + D0D2' + D2'D3 + D2D3'
+Sd = D0'D1'D2' + D0'D2'D3 + D0'D2'D3' + D0'D1D3' + D0'D1D2 + D0D1'D2 + D0D1D2'
+Se = D0'D2' + D0'D1 + D1D3 + D2D3
+Sf = D0'D1'D2' + D0'D2D3' + D1'D2D3' + D2'D3 + D1D3
+Sg = D0'D1 + D1'D2 + D1D2' + D3
+
+Hours Spent on Project
+=======================
+5: Most of this was all the prep work, which was very tedious

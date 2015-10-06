@@ -1,0 +1,18 @@
+Jeremy Jacobson, jjacobson@sandiego.du
+
+Project Overview
+================
+The purpose of this project was to implement an FSM in SystemVerilog that controls the turn signals on a 1965 Ford Thunderbird and test the implementation with a testbench in ModelSim. 
+
+Testbench Design
+================
+My testbench tests a left turn, a right turn, and then a left turn "interrupted" by a right turn.
+
+Resource Usage
+================
+13 registers
+10 pins
+
+Hours Spent on Project
+========================
+3
