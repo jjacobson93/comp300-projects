@@ -1,0 +1,9 @@
+Jeremy Jacobson, jjacobson@sandiego.edu
+
+Project Overview
+=================
+The goal of this project was to implement an unhandled dependency for a pipelined MIPS processor in SystemVerilog.
+
+Hours Spent on Project
+=================
+3 hours

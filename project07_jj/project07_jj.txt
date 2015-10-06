@@ -1,0 +1,9 @@
+Jeremy Jacobson, jjacobson@sandiego.edu
+
+Project Overview
+====================
+The purpose this project was to get more familiar with the inner workings of a single-cycle CPU and implement two new features in the SystemVerilog implementation of a MIPS CPU.
+
+Hours Spent on Project
+====================
+6-7 hours; too long

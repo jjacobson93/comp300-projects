@@ -1,0 +1,11 @@
+Jeremy Jacobson, jjacobson@sandiego.edu
+
+Project Overview
+=================
+The purpose of this project was to practice using the MIPS assembly language to write programs with function calls
+
+Hours Spent on Project
+======================
+5
+
+The 4th program (QuickSelect) was hugely disproportionate to the other ones in complexity. A more gradual build up would have been better.
